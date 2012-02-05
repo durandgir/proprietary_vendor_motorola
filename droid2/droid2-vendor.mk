@@ -168,9 +168,9 @@ PRODUCT_COPY_FILES += \
 
 #app
 PRODUCT_COPY_FILES += \
-	vendor/motorola/jordan/app/MotoPhonePortal.apk:system/app/MotoPhonePortal.apk \
-	vendor/motorola/jordan/app/AudioEffectSettings.apk:system/app/AudioEffectSettings.apk \
-	vendor/motorola/jordan/app/CompassCalibrate.apk:system/app/CompassCalibrate.apk \
+	vendor/motorola/droid2/app/MotoPhonePortal.apk:system/app/MotoPhonePortal.apk \
+	vendor/motorola/droid2/app/AudioEffectSettings.apk:system/app/AudioEffectSettings.apk \
+	vendor/motorola/droid2/app/CompassCalibrate.apk:system/app/CompassCalibrate.apk \
 
 #extra
 PRODUCT_COPY_FILES += \
