@@ -20,8 +20,7 @@ PRODUCT_COPY_FILES := \
     vendor/motorola/sholes/proprietary/libcamera.so:obj/lib/libcamera.so \
     vendor/motorola/sholes/proprietary/libaudio.so:obj/lib/libaudio.so \
     vendor/motorola/sholes/proprietary/libril_rds.so:obj/lib/libril_rds.so \
-    vendor/motorola/sholes/proprietary/libnmea.so:obj/lib/libnmea.so \
-    vendor/motorola/sholes/proprietary/gralloc.omap3.so:obj/lib/hw/gralloc.omap3.so
+    vendor/motorola/sholes/proprietary/libnmea.so:obj/lib/libnmea.so
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/sholes/proprietary/ProgramMenuSystem.apk:/system/app/ProgramMenuSystem.apk \
